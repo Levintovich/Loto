@@ -1,0 +1,534 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+<html>    
+<head><title>
+	
+            לוטו - מידע סטטיסטי
+        
+</title>
+        
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<meta http-equiv="Content-Language" content="he" />
+<meta name="ROBOTS" content="NOARCHIVE,NOODP,NOYDIR" />
+<meta name="DESCRIPTION" content="מידע סטטיסטי - רוצים לדעת מהם המספרים שעלו בגורל הכי הרבה פעמים או מהם המספרים שעלו בגורל הכי מעט פעמים בהגרלת הלוטו? כמן כן, תופתעו לגלות כמה מיליונרים חדשים נולדו בפרק זמן מסוים ובאילו הגרלות בדיוק זכו." />
+<meta name="KEYWORDS" content="לוטו, סטטיסטי, סטטיסטיקה, סטטיסטיקות, זוכים, מידע, טפסים, מספר, כדור, חם, לוהט, הכי, הרבה, מעט, פעם, פעמים, מליונר, מיליונר, מיליונרים, מליונרים, חדש, חדשים" /><link rel="canonical" href="http://www.pais.co.il/Lotto/Pages/Statistics.aspx" />
+
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/_layouts/Pais/jquery-ui-1.7.2.custom.css" />
+<link rel="alternate" type="application/rss+xml" href="http://www.pais.co.il/products.xml?lottery=Lotto" title="מפעל הפיס - תוצאות הגרלת הלוטו וה-Extra" />
+<link rel="stylesheet" type="text/css" href="/_layouts/pais/he-IL/Common.css?rev=zsswOCWzgoFuJnIaNTb3ww%3D%3D" media="all" />
+<link rel="stylesheet" type="text/css" href="/_layouts/pais/he-IL/Lotto.css?rev=0hs4wu9x8lgxvDb%2FrT5ugg%3D%3D" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/_layouts/pais/he-IL/Print.css?rev=rMDDB4uXzwzim0g2x7LzfA%3D%3D" media="print" />
+
+
+<script language="javascript" type="text/javascript">
+            var firstPrize = '10.00';
+            var secondPrize = '0.50';
+            var lotteryDate = '16/07/2016';
+            var lotteryHour = '22:55';
+            var lotteryDay = '7';
+            var lotteryNumber = '2808';
+            var lottoMania = 'false';
+            var today = '4'; 
+            </script>
+
+
+        
+    </head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5B7CH6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function(w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5B7CH6');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript">
+    if (typeof (WPSC) == "undefined") {
+        WPSC = new Object();
+        WPSC.Init = function() {
+            //
+        }
+        WPSC.WebPartPage = new Object();
+        WPSC.WebPartPage.Parts = new Object();
+        WPSC.WebPartPage.Parts.Register = function() {
+            //
+        }
+    }
+</script>
+<form name="aspnetForm" method="post" action="Statistics.aspx" id="aspnetForm" dir="rtl">
+
+<input type="hidden" name="ctl00_RadScriptManager1_TSM" id="ctl00_RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTUwMjEyNzk3NWRkUV7pfMC0x/V7+tteefvPi2jfNJE=" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3ahe-IL%3aeb198dbd-2212-44f6-bb15-882bde414f00%3aea597d4b" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="229D62BF" />
+
+
+
+    
+        
+    
+    
+    <div id="PaisWrapper">
+         
+        
+            
+
+<img id="PaisLogo" src="/_layouts/Pais/Images/logo_pais.gif" alt="" />
+
+
+    <div id="PaisHeader">
+    
+    <fieldset id="PaisSearchBox">
+	<legend>
+		חיפוש
+	</legend><input type="text" id="PaisSearchText" value="" title="הזן מילות חיפוש" /><input type="button" id="PaisSearchButton" value="חפש" title="בצע חיפוש" />
+</fieldset>
+    
+        <ul id="PaisMenu">
+	<li id="PaisSiteGeneral"><a href="/" title="מפעל הפיס">מפעל הפיס<span></span></a><ul>
+		<li class="PaisFirst"><a class="PaisExpandable" href="/About" title="אודות הפיס">אודות הפיס</a><ul>
+			<li class="PaisFirst"><a href="/About/Pages/From-the-Chairman.aspx" title="דברי פתיחה של יו&quot;ר מפעל הפיס, האלוף (במיל) עוזי דיין">דבר היו&quot;ר</a></li>
+			<li><a href="/ResponsibleLottery/Pages/Default.aspx" title="משחקים באחריות">משחקים באחריות</a></li>
+			<li><a href="/About/Pages/Freedom_of_information.aspx" title="מידע על פעילות מפעל הפיס ודוחות כספיים">חופש המידע</a></li>
+			<li><a href="/About/Pages/Mortgages.aspx" title="מפעל הפיס למען הסביבה">אחריות סביבתית</a></li>
+			<li><a href="/About/Pages/WelfareActivities.aspx" title="מפעל הפיס למען הקהילה">מפעל של בריאות ורווחה</a></li>
+			<li><a href="/About/Pages/community.aspx" title="מפעל הפיס למען הקהילה">הפיס ותרומתו לחינוך</a></li>
+			<li><a href="/About/Pages/24hours_with_pais.aspx" title="מצגת תמונות">יום בחיים עם מפעל הפיס</a></li>
+			<li><a href="/About/Pages/history.aspx" title="היסטוריה">איך הכל התחיל</a></li>
+			<li><a href="/About/Pages/nostalgy.aspx" title="גלריית כרזות פרסום ישנות של מפעל הפיס">כרזות פרסום</a></li>
+			<li><a href="/Pages/Accessibility.aspx">רכז נגישות במפעל הפיס</a></li>
+
+		</ul></li>
+		<li><a class="PaisExpandable" href="/Thanks-To" title="בזכות הפיס">בזכות הפיס</a><ul>
+			<li class="PaisFirst"><a href="/Thanks-To/Pages/pais_building.aspx" title="מבנים בזכות הפיס">מבנים בזכות הפיס</a></li>
+			<li><a href="/Thanks-To/Pages/AreasOfAssistance.aspx" title="100% מרווחי מפעל הפיס מוחזרים לקהילה, חלק כפרסים לזוכים וחלק מוקצים לכל הרשויות המקומיות בישראל ומשמשים להקמת פרויקטים לרווחת הקהילה ולשיפור איכות חייהם של התושבים.">תחומי סיוע</a></li>
+
+		</ul></li>
+		<li><a class="PaisExpandable" href="#" title="קרנות הפיס ומועצת הפיס לתרבות ואמנות">פיס בתרבות</a><ul>
+			<li class="PaisFirst"><a href="https://culture.pais.co.il/" title="מועצת הפיס לתרבות ואמנות">מועצת הפיס לתרבות ואמנות</a></li>
+			<li><a href="https://culture.pais.co.il/Sapir" title="קרן ספיר">קרן מפעל הפיס ע&quot;ש ספיר</a></li>
+			<li><a href="https://culture.pais.co.il/Landau" title="קרן לנדאו">קרן מפעל הפיס ע&quot;ש לנדאו</a></li>
+
+		</ul></li>
+		<li><a href="/Franchisees" title="זכיינים">זכיינים</a></li>
+		<li><a href="/News" title="חדשות">חדשות</a></li>
+		<li><a class="PaisExpandable" href="/Bids" title="מכרזי מפעל הפיס ורישום ספקים">רכש ומכרזים</a><ul>
+			<li class="PaisFirst"><a href="/Bids/Pages/default.aspx">מכרזים פומביים פעילים</a></li>
+			<li><a href="/Bids/Pages/register.aspx" title="רישום ספקים למאגר הספקים של מפעל הפיס">רישום ספקים</a></li>
+			<li><a href="/Bids/archive/Pages/default.aspx" title="ארכיון המכרזים הפומביים של מפעל הפיס">ארכיון מכרזים פומביים</a></li>
+
+		</ul></li>
+		<li><a href="/Scholarships" title="מלגות הפיס להשכלה גבוהה">מלגות פיס להשכלה גבוהה</a></li>
+		<li><a href="/ResponsibleLottery/Pages/index.html">משחקים באחריות</a></li>
+		<li><a href="/Pages/jobs.aspx">דרושים</a></li>
+
+	</ul></li>
+	<li id="PaisSiteLotto"><a href="/Lotto/" title="לוטו" class="PaisSelected">לוטו<span></span></a><ul id="PaisMenuCurrent">
+		<li class="PaisFirst"><a class="PaisExpandable" href="#" title="איך משתתפים בהגרלת הלוטו">איך משתתפים</a><ul>
+			<li class="PaisFirst"><a href="/Lotto/Pages/about_lotto.aspx" title="הכל אודות הגרלת הלוטו">אודות הגרלת הלוטו</a></li>
+			<li><a href="/Lotto/Pages/EXTRA.aspx" title="איך משתתפים בהגרלת ה-Extra">השתתפות בהגרלת Extra</a></li>
+			<li><a href="/Lotto/Pages/simulator_form.aspx" title="איך ממלאים טופס לוטו">טפסי לוטו - מצגת הסבר</a></li>
+			<li><a href="/Lotto/Pages/simulator.aspx" title="הדמיית הגרלת לוטו">הדמיית הגרלה</a></li>
+
+		</ul></li>
+		<li><a class="PaisExpandable" href="#" title="תוצאות הגרלות הלוטו">תוצאות הגרלה</a><ul>
+			<li class="PaisFirst"><a href="/Lotto/Pages/last_Results.aspx" title="תוצאות הגרלת הלוטו האחרונה">תוצאות הגרלת הלוטו</a></li>
+			<li><a href="/Lotto/Pages/ResultsArchive.aspx" title="ארכיון תוצאות הגרלת הלוטו">ארכיון תוצאות הגרלה</a></li>
+			<li><a href="/Pages/newsletter.aspx" title="הירשם עכשיו וקבל דיוור תוצאות הגרלת הלוטו וה-Extra">דיוור תוצאות הגרלה</a></li>
+			<li><a href="/Pages/video.aspx" title="ארכיון שידורי הגרלות">ערוץ הפיס</a></li>
+
+		</ul></li>
+		<li><a class="PaisExpandable" href="#" title="בירור זכיות בהגרלת הלוטו וה-Extra">בירור זכייה לוטו</a><ul>
+			<li class="PaisFirst"><a href="/Lotto/Pages/WinClarification.aspx" title="בירור זכייה">בירור זכייה לוטו</a></li>
+			<li><a href="/Lotto/Pages/WinClarificationExtra.aspx" title="בירור זכייה Extra">בירור זכייה Extra</a></li>
+
+		</ul></li>
+		<li><a href="/Pages/winning_info.aspx">מה עושים כשזוכים?</a></li>
+		<li><a class="PaisExpandable" href="#" title="מידע סטטיסטי">סטטיסטיקה</a><ul>
+			<li class="PaisFirst"><a href="/Lotto/Pages/Statistics.aspx" title="מידע סטטיסטי">מידע סטטיסטי</a></li>
+			<li><a href="/Lotto/Pages/Lotto_tables.aspx" title="סיכויי זכייה וטבלת מחירי טפסי לוטו">סיכויי זכייה</a></li>
+
+		</ul></li>
+		<li><a href="/lotto/Pages/Policy_Notes.aspx" title="הנחיות כלליות ותקנון הגרלת הלוטו">הנחיות כלליות ותקנון</a></li>
+		<li><a class="PaisExpandable" href="#">לוטוגוצים</a><ul>
+			<li class="PaisFirst"><a href="http://www.lotto-gutz.co.il/?utm_source=pais&amp;utm_medium=toolbar&amp;utm_campaign=lotto-gutz" target="_blank">נווה מזל - עולם הלוטוגוצים</a></li>
+			<li><a href="http://www.facebook.com/pages/lwtw/152124551467693" title="הלוטוגוצים (כדורי המזל) ב-Facebook" target="_blank">Facebook</a></li>
+			<li><a href="/Lotto/Pages/photogutz.aspx" title="אפליקציית פוטוגוץ לטלפון הנייד ול-iPad">פוטוגוץ</a></li>
+
+		</ul></li>
+		<li><a href="/news/pages/lotto-winners.aspx">סיפורי זוכים</a></li>
+
+	</ul></li>
+	<li id="PaisSiteChance"><a href="/Chance/" title="ציאנס">ציאנס<span></span></a><ul>
+		<li class="PaisFirst"><a class="PaisExpandable" href="#" title="איך משתתפים בהגרלת הצ'אנס">איך משתתפים</a><ul>
+			<li class="PaisFirst"><a href="/Chance/Pages/about_chance.aspx" title="איך ממלאים טופס צ'אנס">אודות הגרלת הצ'אנס</a></li>
+			<li><a href="/Chance/Pages/simulation_form.aspx" title="איך ממלאים טופס צ'אנס">טפסי צ'אנס - מצגת הסבר</a></li>
+			<li><a href="/Chance/Pages/simulation.aspx" title="הדמיית הגרלת הצ'אנס">הדמיית הגרלת צ'אנס</a></li>
+
+		</ul></li>
+		<li><a class="PaisExpandable" href="#" title="תוצאות הגרלת הצ'אנס">תוצאות הגרלה</a><ul>
+			<li class="PaisFirst"><a href="/Chance/Pages/last_Results.aspx" title="תוצאות הגרלת הצ'אנס">תוצאות הגרלת הצ'אנס</a></li>
+			<li><a href="/Chance/Pages/ResultsArchive.aspx" title="ארכיון תוצאות הגרלת הצ'אנס">ארכיון תוצאות הגרלה</a></li>
+			<li><a href="/Pages/newsletter.aspx" title="הירשם לרשימת הדיוור של תוצאות הגרלת הצ'אנס">דיוור תוצאות הגרלה</a></li>
+			<li><a href="/Pages/video.aspx" title="ארכיון שידורי הגרלות">ערוץ הפיס</a></li>
+
+		</ul></li>
+		<li><a href="/Chance/Pages/WinClarification.aspx" title="בירור זכייה">בירור זכייה צ'אנס</a></li>
+		<li><a href="/Pages/winning_info.aspx" title="מה עושים כשזוכים?">מה עושים כשזוכים?</a></li>
+		<li><a class="PaisExpandable" href="#" title="מידע סטטיסטי">סטטיסטיקה</a><ul>
+			<li class="PaisFirst"><a href="/Chance/Pages/Statistics.aspx" title="מידע סטטיסטי">מידע סטטיסטי צ'אנס</a></li>
+			<li><a href="/Chance/Pages/how-mach.aspx" title="בדקו וגלו מתי הצירוף שלכם עלה בפעם האחרונה בגודל">בכמה יכולת לזכות</a></li>
+
+		</ul></li>
+		<li><a href="/chance/Pages/Policy_Notes.aspx" title="הנחיות כלליות ותקנון הגרלת הצ'אנס">הנחיות כלליות ותקנון</a></li>
+
+	</ul></li>
+	<li id="PaisSiteSubscribersClub"><a href="/Subscribers-Club/" title="מנוי פיס">מנוי פיס<span></span></a><ul>
+		<li class="PaisFirst"><a class="PaisExpandable" href="#" title="הכל אודות הגרלות מנוי פיס">אודות</a><ul>
+			<li class="PaisFirst"><a href="/Subscribers-Club/Pages/about.aspx" title="הכל אודות הגרלות מנוי פיס">אודות מנוי פיס</a></li>
+			<li><a href="/Subscribers-Club/Pages/HowToParticipate.aspx" title="כיצד מתקיימת הגרלת 'מנוי פיס'">איך משתתפים</a></li>
+			<li><a href="/Subscribers-Club/Pages/MustWin.aspx" title="כל חודש זוכים בטוח 52 מנויים בפרסים הראשונים">שיטת &quot;הזכייה המובטחת&quot;</a></li>
+			<li><a href="/Subscribers-Club/Pages/simulator.aspx" title="איך מתבצעת הגרלת מנוי פיס?">הדמיית הגרלת מנוי פיס</a></li>
+
+		</ul></li>
+		<li><a class="PaisExpandable" href="#" title="תוצאות הגרלת מנוי פיס וארכיון">תוצאות הגרלה</a><ul>
+			<li class="PaisFirst"><a href="/Subscribers-Club/Pages/lottery-Results.aspx" title="תוצאות ההגרלה וארכיון">תוצאות הגרלת מנוי פיס</a></li>
+			<li><a href="/Pages/newsletter.aspx" title="הירשם לדיוור תוצאות הגרלת 'מנוי פיס'">דיוור תוצאות הגרלה</a></li>
+
+		</ul></li>
+		<li><a href="/Subscribers-Club/Pages/choose-present-before-register.aspx" title="בקשה להצטרפות למנוי פיס">בקשה להצטרפות</a></li>
+		<li><a href="/Subscribers-Club/Pages/WinClarification.aspx" title="בירור זכיות לפי מספר כרטיס מנוי">בירור זכייה מנוי פיס</a></li>
+		<li><a class="PaisExpandable" href="#" title="מבנה סל הפרסים של מנוי פיס">סל הפרסים</a><ul>
+			<li class="PaisFirst"><a href="/Subscribers-Club/Pages/prizes.aspx" title="מבנה סל הפרסים של מנוי פיס">טבלת סל הפרסים</a></li>
+			<li><a href="/Subscribers-Club/Pages/specials.aspx" title="מידע אודות פרסים מיוחדים שהוגרלו במסגרת 'מנוי פיס'">פרסים מיוחדים</a></li>
+			<li><a href="/Subscribers-Club/Pages/barcelona.aspx" title="הגרלת בונוס חודשית">חופשה זוגית בברצלונה</a></li>
+			<li><a href="/Subscribers-Club/Pages/cars.aspx" title="הפרס השני בהגרלת מנוי פיס">מכונית משפחתית</a></li>
+
+		</ul></li>
+		<li><a href="/Subscribers-Club/Pages/Policy_notes.aspx" title="ילקוט פרסומים">הנחיות כלליות ותקנון</a></li>
+		<li><a href="/Subscribers-Club/Pages/InfoUpdate.aspx" title="עדכון פרטים ומידע על שיטת החיוב">עדכון פרטים</a></li>
+
+	</ul></li>
+	<li id="PaisSite777"><a href="/777/" title="777">777<span></span></a><ul>
+		<li class="PaisFirst"><a class="PaisExpandable" href="#" title="איך משתתפים בהגרלת פיס 777">איך משתתפים</a><ul>
+			<li class="PaisFirst"><a href="/777/Pages/about_777.aspx" title="הכל אודות הגרלת פיס 777">אודות פיס 777</a></li>
+			<li><a href="/777/Pages/simulation_form_777.aspx" title="הסבר כיצד ממלאים את טפסי פיס 777">טפסי פיס 777 - מצגת הסבר</a></li>
+
+		</ul></li>
+		<li><a class="PaisExpandable" href="#" title="תוצאות הגרלת פיס 777">תוצאות הגרלה</a><ul>
+			<li class="PaisFirst"><a href="/777/Pages/last_Results.aspx" title="תוצאות הגרלת פיס 777">תוצאת הגרלת פיס 777</a></li>
+			<li><a href="/777/Pages/ResultsArchive.aspx" title="ארכיון תוצאות הגרלת פיס 777">ארכיון תוצאות הגרלה</a></li>
+			<li><a href="/Pages/newsletter.aspx" title="הירשם לרשימת הדיוור של תוצאות הגרלת פיס 777">דיוור תוצאות הגרלה</a></li>
+			<li><a href="/Pages/video.aspx" title="ארכיון שידורי הגרלות">ערוץ הפיס</a></li>
+
+		</ul></li>
+		<li><a href="/777/Pages/WinClarification.aspx" title="בירור זכייה פיס 777">בירור זכייה פיס 777</a></li>
+		<li><a href="/Pages/winning_info.aspx" title="מה עושים כשזוכים?">מה עושים כשזוכים?</a></li>
+		<li><a href="/777/Pages/Statistics.aspx" title="מידע סטטיסטי פיס 777">מידע סטטיסטי</a></li>
+		<li><a href="/777/Pages/Policy_Notes.aspx" title="ילקוט פרסומים">הנחיות כלליות ותקנון</a></li>
+
+	</ul></li>
+	<li id="PaisSite123"><a href="/123/" title="123">123<span></span></a><ul>
+		<li class="PaisFirst"><a class="PaisExpandable" href="#" title="איך ממלאים טופס 123">איך משתתפים</a><ul>
+			<li class="PaisFirst"><a href="/123/Pages/about_123.aspx" title="הכל אודות הגרלת 123">אודות 123</a></li>
+			<li><a href="/123/Pages/simulation_form_123.aspx" title="איך ממלאים טופס 123">טופס 123 - מצגת הסבר</a></li>
+			<li><a href="/123/Pages/simulation_123.aspx" title="הדמיית הגרלת 123">הדמיית הגרלת 123</a></li>
+
+		</ul></li>
+		<li><a class="PaisExpandable" href="#" title="תוצאות הגרלת 123">תוצאות הגרלה</a><ul>
+			<li class="PaisFirst"><a href="/123/Pages/last_Results.aspx" title="תוצאת הגרלת 123 האחרונה שהתקיימה">תוצאת הגרלת 123</a></li>
+			<li><a href="/123/Pages/ResultsArchive.aspx" title="ארכיון תוצאות הגרלת 123">ארכיון תוצאות הגרלות 123</a></li>
+			<li><a href="/Pages/newsletter.aspx" title="הירשם לרשימת דיוור של תוצאות הגרלת 123">דיוור תוצאות הגרלה</a></li>
+			<li><a href="/Pages/video.aspx" title="ארכיון שידורי הגרלות">ערוץ הפיס</a></li>
+
+		</ul></li>
+		<li><a href="/123/Pages/WinClarification.aspx" title="בירור זכייה 123">בירור זכייה 123</a></li>
+		<li><a href="/pages/winning_info.aspx" title="מה עושים כשזוכים?">מה עושים כשזוכים?</a></li>
+		<li><a href="/123/Pages/Statistics.aspx" title="מידע סטטיסטי">מידע סטטיסטי</a></li>
+		<li><a href="/123/Pages/Policy_Notes.aspx" title="ילקוט פרסומים">הנחיות כלליות ותקנון</a></li>
+
+	</ul></li>
+	<li id="PaisSiteHishgad"><a href="/Hishgad/" title="חישגד">חישגד<span></span></a><ul>
+		<li class="PaisFirst"><a class="PaisExpandable" href="/Hishgad/Pages/nostalgy.aspx" title="גלריית כרטיסי חישגד שהונפקו לאורך השנים">גלריית כרטיסים</a><ul>
+			<li class="PaisFirst"><a href="/Hishgad/Pages/End-series-for-sale.aspx" title="טבלת גמר מכירת סדרות חישגד">גמר מכירה של סדרות חישגד</a></li>
+
+		</ul></li>
+		<li><a href="/Pages/winning_info.aspx" title="מה עושים כשזוכים?">מה עושים כשזוכים?</a></li>
+		<li><a href="/Hishgad/Pages/Policy_Notes.aspx" title="תקנון חישגד כפי שפורסם בילקוט הפרסומים">הנחיות כלליות ותקנון</a></li>
+
+	</ul></li>
+	<li id="PaisSiteKeno"><a href="/Keno/" title="KENO">KENO<span></span></a><ul>
+		<li class="PaisFirst"><a class="PaisExpandable" href="#" title="איך משתתפים בהגרלת ה-KENO">איך משתתפים</a><ul>
+			<li class="PaisFirst"><a href="/Keno/Pages/Keno_about.aspx" title="איך ממלאים טופס KENO">אודות הגרלת ה-KENO</a></li>
+			<li><a href="/Keno/Pages/simulation.aspx" title="הדמיית הגרלת KENO">הדמיית הגרלת KENO</a></li>
+			<li><a href="/Keno/Pages/simulator_form.aspx">טפסי KENO - מצגת הסבר</a></li>
+
+		</ul></li>
+		<li><a class="PaisExpandable" href="#" title="תוצאות הגרלת ה-KENO">תוצאות הגרלה</a><ul>
+			<li class="PaisFirst"><a href="/Keno/Pages/ResultsArchive.aspx" title="ארכיון תוצאות הגרלת KENO">ארכיון תוצאות הגרלות KENO</a></li>
+			<li><a href="/Pages/newsletter.aspx" title="הירשם עכשיו לדיוור תוצאות הגרלת ה-KENO">דיוור תוצאות הגרלה</a></li>
+
+		</ul></li>
+		<li><a href="/Keno/Pages/WinClarification.aspx" title="בירור זכייה KENO">בירור זכייה KENO</a></li>
+		<li><a href="/Pages/winning_info.aspx" title="מה עושים כשזוכים?">מה עושים כשזוכים?</a></li>
+		<li><a href="/Keno/Pages/Statistics.aspx" title="מידע סטטיסטי KENO">מידע סטטיסטי</a></li>
+		<li><a href="/keno/Pages/Policy_Notes.aspx" title="הנחיות כלליות ותקנון הגרלת KENO">הנחיות כלליות ותקנון</a></li>
+
+	</ul></li>
+	<li id="PaisSitePaisPlace"><a href="/Pais-Place/" title="פיס PLACE">פיס PLACE<span></span></a><ul>
+		<li class="PaisFirst"><a class="PaisExpandable" href="#" title="כרטיסי פיס Place">כרטיסי פיס Place</a><ul>
+			<li class="PaisFirst"><a href="/Pais-Place/Pages/zodaic.aspx" title="כוכבים ומזלות">כוכבים ומזלות</a></li>
+			<li><a href="/Pais-Place/Pages/Fruity.aspx" title="תותי פרוטי">תותי פרוטי</a></li>
+			<li><a href="/Pais-Place/Pages/basketball.aspx" title="כדורסל">כדורסל</a></li>
+			<li><a href="/Pais-Place/Pages/BlackJack-21.aspx" title="בלאק ג'ק">בלאק ג'ק</a></li>
+			<li><a href="/Pais-Place/Pages/Pyramid.aspx" title="פירמידה">פירמידה</a></li>
+			<li><a href="/Pais-Place/Pages/poker.aspx" title="פוקר">פוקר</a></li>
+			<li><a href="/Pais-Place/Pages/Greens.aspx" title="ירוקים">ירוקים</a></li>
+			<li><a href="/Pais-Place/Pages/las-vegas.aspx" title="לאס וגאס">לאס וגאס</a></li>
+			<li><a href="/Pais-Place/Pages/luck-mechine.aspx" title="מכונת מזל">מכונת מזל</a></li>
+
+		</ul></li>
+		<li><a href="/Pais-Place/Pages/Policy_notes.aspx" title="מה עושים כשזוכים?">מה עושים כשזוכים?</a></li>
+		<li><a href="/Pais-Place/Pages/Policy_Notes.aspx" title="ילקוט פרסומים">הנחיות כלליות ותקנון</a></li>
+
+	</ul></li>
+
+</ul>
+    
+    </div>
+
+        
+        
+<div id="PaisBreadcrumb">
+	<a href="/pages/default.aspx">מפעל הפיס</a><span> › </span>
+	<a href="/lotto/pages/default.aspx">לוטו</a><span> › </span>
+	<span class="PaisSelected">לוטו - מידע סטטיסטי</span>
+</div>
+
+
+<div id="PaisMain" class="PaisGrid2">
+    <div id="PaisPageHeader">
+	<div>
+		<div>
+			<h1>
+				לוטו - מידע סטטיסטי
+			</h1><div id="PaisPageButtons">
+				<a href="mailto:?subject=Miffal Hapais&amp;body=http://www.pais.co.il/Lotto/Pages/Statistics.aspx" class="Send">שלח</a><a class="Print" href="#">הדפס</a><a class="FontSize FontSmall Selected" href="#">א</a><a class="FontSize FontMedium" href="#">א</a><a class="FontSize FontLarge" href="#">א</a><span>גודל טקסט:</span>
+			</div>
+		</div>
+	</div>
+</div>
+    
+    
+
+    <div class="PaisContentParagraph">
+	<h2>
+		רוצים לדעת מהם המספרים החמים (אלה שעלו בגורל הכי הרבה פעמים) או מהם המספרים הלוהטים (אלה שעלו בגורל הכי מעט פעמים)?
+	</h2><p class="PaisSummary"><p>פשוט הגדירו טווח זמן והמידע הדרוש לכם יוצג. כמו כן, תופתעו לגלות כמה מיליונרים חדשים נולדו בפרק זמן מסוים ובאילו הגרלות בדיוק זכו ובכמה...<br> <br>מובן כי אין בהצגת המספרים משום המלצה שלנו לבחירה או הימנעות מבחירה של מספר זה או אחר ממספרי טבלת הלוטו.</p></p>
+</div>
+
+
+    <div id="PaisWebPartZone3">
+
+	<div class="PaisWpBody">
+		<div class="PaisSectionSelectorForm">
+			<div class="PaisHeader">
+
+			</div>
+
+    <div class="PaisMain">
+        <div class="PaisSection">
+            <label for="PaisLottoStatPicker" class="PaisSectionTitle">
+                בחר נתונים להצגה:</label>
+            <div class="PaisSectionBody">
+                
+<select id="PaisLottoStatPicker">
+    <option value="1" selected="selected">
+        המספרים החמים</option>
+    <option value="2">
+        מידע על זכיות וזוכים</option>
+    <option value="3">
+        המספרים הלוהטים</option>
+</select>
+
+            </div>
+        </div>
+        <div class="PaisSection">
+            <label class="PaisSectionTitle">
+                סוג חיפוש:
+            </label>
+            <div class="PaisSectionBodySeperator PaisExtra">
+                <div id="PaisLotteriesRangePicker">
+				<span id="PaisRangeSearchTypeButtonsWrapper"><input type="radio" id="PaisRangeSearchTypeDate" name="PaisRangeSearchType" value="Date" /><label for="PaisRangeSearchTypeDate">עפ"י תאריכים</label><input type="radio" id="PaisRangeSearchTypeRange" name="PaisRangeSearchType" value="Range" /><label for="PaisRangeSearchTypeRange">מספרי הגרלות</label></span><div id="PaisRangeSearchTypeDateWrapper">
+					<label for="PaisFromDate">מתאריך: </label><input type="text" id="PaisFromDate" value="" class="PaisDatePicker" readonly="readonly" /><label for="PaisToDate">עד תאריך: </label><input type="text" id="PaisToDate" value="12/07/2016" class="PaisDatePicker" readonly="readonly" />
+				</div><div id="PaisRangeSearchTypeRangeWrapper">
+					<label for="PaisFromRange">מהגרלה מספר: </label><input type="text" id="PaisFromRange" value="" MaxLength="6" /><label maxlength="6" for="PaisToRange">עד הגרלה מספר: </label><input type="text" id="PaisToRange" value="" MaxLength="6" />
+				</div>
+			</div>
+            </div>
+        </div>
+        <div class="PaisSectionActions">
+            <button class="ButtonTiny" id="PaisLottoStatSubmit" type="button">
+                חפש
+            </button>
+            <button class="ButtonTiny" id="PaisLottoStatReset" type="button">
+                נקה
+            </button>
+        </div>
+    </div>
+
+
+		</div><div maxlength="6" class="PaisBorderBottom">
+
+		</div><div PaisLang="1037" id="PaisStatisticsResults" class="PaisStatisticsResults">
+
+		</div><input id="PaisDrawRangeMin" type="hidden" value="1035" /><input id="PaisDrawRangeMax" type="hidden" value="2807" /><input id="PaisDateRangeMin" type="hidden" value="04/03/1994" />
+	</div>
+</div>
+
+    <!--inside div bottom web part zone    -->
+    <div id="PaisWebPartZone4">
+
+	<div class="PaisWpBody">
+		<div class="PaisDisclaimer">
+	<em>**</em><div>
+	מילוי הטפסים להגרלות השונות באתר (סימולטור מילוי הטפסים) וכן כל הדמיה של משחק והגרלה המופיעים באתר, הינם לצורכי הסבר ו/או המחשה, הם אינם אמיתיים ואין להם כל ערך או תוקף או משמעות לגבי תוצאות ההגרלה בזמן כלשהו, ובכל מקרה אין בהם כדי להקנות לאדם כלשהו זכות כלפי מפעל הפיס או מי מטעמו; ובכלל זה הזכות לזכות בפרס כלשהו. 	
+	</div>
+	<em>**</em><div>
+	מבלי לגרוע מהאמור לעיל, בשל טעויות ואי-דיוקים אפשריים, מפעל הפיס לא ישא באחריות לשגיאה בנתון, מידע סטטיסטי, מידע לגבי סיכויי זכייה, חוות דעת או המלצה המופיעים באתר, ואינו ערב לנכונותם. אין במידע הסטטיסטי והאחר משום המלצה להשתתפות בהגרלות מפעל הפיס או באשר לאופן מילוי טפסים כאמור. 
+	</div>
+</div>
+	</div>
+</div>
+
+</div>
+  <!--Side web part zone -->
+<div id="PaisSide" class="PaisGrid3">
+    <div id="PaisWebPartZone5">
+
+	<div class="PaisWpBody">
+		<div class="PaisCountDownTimer">
+			<h4>
+				הגרלת לוטו הבאה בעוד
+			</h4><div id="PaisNextDays">
+				<h5>
+					ימים
+				</h5><b>0</b><b>2</b>
+			</div><div id="PaisNextHours">
+				<h5>
+					שעות
+				</h5><b>2</b><b>3</b>
+			</div><div id="PaisNextMinutes">
+				<h5>
+					דקות
+				</h5><b>0</b><b>4</b>
+			</div><p>ההגרלה תתקיים ב-16/07/2016 בשעה 22:55</p>
+		</div>
+	</div>
+	<div class="PaisWpBody">
+		<div id="ctl00_PlaceHolderWebPartManager_SPWPM_g_8e1b81ce_27d8_47d5_aae2_631add048e42">
+			<div class="PaisPeriodWins">
+				<h4>
+					הידעת?
+				</h4><p class="PaisWins"><span>סכום הזכייה המצטבר בחודש האחרון הוא</span><strong>62,911,071</strong>&nbsp;<b>₪</b></p><p class="PaisWinners"><span>מספר הטפסים הזוכים בלוטו בכל הפרסים הינו</span><strong>1,298,721</strong>&nbsp;<b>זוכים</b></p>
+			</div>
+		</div>
+	</div>
+	<h3 class="PaisWpTitle">
+		מבנה הגרלת הלוטו
+	</h3>
+	<div class="PaisWpBody PaisWpTitleAndBorder">
+		<DIV dir=rtl>
+<P><STRONG>מבנה הגרלת הלוטו שונה מספר פעמים בעבר:</STRONG></P>
+<UL>
+<LI>בין השנים 1993 - 7/2000 היה על הלקוח לנחש 6 מספרים מתוך 49 מספרים.</LI>
+<LI>בין השנים 7/2000 - 3/2004 היה על הלקוח לנחש 6 מספרים מתוך 45&nbsp; מספרים + אות אחת מתוך 5 אותיות.</LI>
+<LI>בין השנים 3/2004 - 2/2009&nbsp; היה על הלקוח לנחש 6 מספרים מתוך 34 מספרים + מספר חזק אחד מתוך 10.</LI>
+<LI>מ-28/2/2009&nbsp;על הלקוח לנחש 6 מספרים מתוך 37 מספרים + מספר חזק אחד מתוך 8 מספרים.</LI>
+<LI>מ-15/5/2011&nbsp;על הלקוח לנחש 6 מספרים מתוך 37 מספרים + מספר חזק אחד מתוך&nbsp;7 מספרים.</LI></UL></DIV>
+	</div><div class="PaisBorderBottom">
+
+	</div>
+</div>
+
+</div>
+  <!--Bottom web part zone -->
+
+
+
+        
+            
+    
+        <div id="PaisFooter">
+        <ul id="PaisFooterLinks">
+	<li class="PaisFirst"><a href="javascript:Pais.Bookmark(document.title,window.location.href)" title="הוסף דף אינטרנט זה לרשימת המועדפים">הוסף למועדפים</a></li>
+	<li><a href="/Pages/site-map.aspx" title="מפת אתר">מפת אתר</a></li>
+	<li><a href="/Pages/contact_us.aspx" title="צור קשר">צרו קשר</a></li>
+	<li><a href="/Pages/faq.aspx" title="שאלות ותשובות">שאלות ותשובות</a></li>
+	<li><a href="/Pages/Terms-Of-Use.aspx" title="תנאי שימוש">תנאי שימוש</a></li>
+	<li><a href="/Pages/Privacy_Policy.aspx" title="מדיניות פרטיות">מדיניות פרטיות</a></li>
+	<li><a href="/Pages/newsletter.aspx" title="דיוור תוצאות הגרלה השונות">רשימות דיוור</a></li>
+	<li><a href="/Pages/video.aspx" title="ארכיון שידורי הגרלות">ערוץ הפיס</a></li>
+	<li><a href="/Pages/CustomerIdentificationProcess.aspx" title="החל מתאריך 31.7.2013 בכל רכישת כרטיס הגרלה אשר ניתן לזכות בו בסכום העולה על תקרת המס הנהוגה באותה עת, על הלקוח להקיש את 4 הספרות האחרונות של תעודת הזהות">תהליך זיהוי לקוח</a></li>
+	<li><a href="/Pages/jobs.aspx">דרושים</a></li>
+	<li class="PaisFooterRss"><a href="/Pages/rss-lobby.aspx" title="קבל עדכון">קבל עדכון</a></li>
+
+</ul>
+        <span>&#169; מפעל הפיס 1951-2016. כל הזכויות שמורות</span>
+        <a href="http://www.ewave.co.il" id="PaisSiteBy" rel="nofollow" target="_blank"></a>
+        <a href="/ResponsibleLottery/Pages/index.html" title="משחקים באחריות" id="PaisAgeRestriction">המכירה אסורה למי שטרם מלאו לו 18 שנה</a>
+        
+        </div>
+    
+
+        
+    </div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';Sys.Application.initialize();
+//]]>
+</script>
+</form>
+
+    <script type="text/javascript" src="/_layouts/Pais/jquery-1.3.2.min.js?rev=fZH%2Fh7LAQ5rHbFrwvMuHew%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/Pais/jquery-ui-1.7.2.min.js?rev=ZCs%2B7jUUNTvWyC09JdKzRA%3D%3D"></script>
+
+
+<script type="text/javascript" src="/_layouts/Pais/he-IL/Local.js?rev=xAtMUuW79lomR4oOh0rbCg%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/Pais/Common.js?rev=F%2F927jmuOl6%2FoTkiSFtZaA%3D%3D"></script>
+
+
+
+<script type="text/javascript" src="/_layouts/pais/statistics.js?rev=heKC9cxW3PMBs2BGlLdiow%3D%3D"></script><script type="text/javascript">
+	//<![CDATA[
+	$(function(){
+	Pais.RangePicker.Init();Pais.DatePicker.SetYearRange('#PaisFromDate,#PaisToDate', '1994:2016','0');
+	Pais.Statistics.Lotto.Init()
+	Pais.CountDownTimer.Init(255843);
+	});
+	//]]>
+
+</script>
+
+
+
+
+
+</body>
+</html>
